@@ -1,0 +1,74 @@
+ECNUMBER,DATE,OCCURRENCE CLASS,OCCURRENCE CATEGORY,OPERATION TYPE,OPERATION TYPE 2,OPERATION TYPE 3,WEATHER CONDITIONS,MASS GROUP,MASS GROUP KG,LOCATION,TOTAL FATALITIES
+INCID G-01-19,3/6/2019,2,SCF-NP: System/component failure or malfunction [non-powerplant],1,2,5,VMC,3,0-2250,0,0
+ACCID-04-19,3/26/2019,0,SCF-PP: powerplant failure or malfunction,2,10,4,VMC,3,0-2250,0,0
+ACCID-01-19,1/1/2019,0,LOC-G: Loss of control - ground,3,4,4,VMC,3,0-2250,0,0
+ACCID-02-19,3/5/2019,0,SCF-PP: powerplant failure or malfunction,3,4,4,VMC,3,0-2250,0,0
+ACCID-03-19,3/24/2019,0,SCF-NP: System/component failure or malfunction [non-powerplant],1,2,4,VMC,3,0-2250,0,0
+ACCID-05-19,4/8/2019,0,LOC-I: Loss of control - inflight,4,1,5,VMC,3,0-2250,7,1
+ACCID-07-19,10/24/2019,0,FUEL: Fuel related,3,11,4,VMC,3,0-2250,7,0
+ACCID-06-19,7/13/2019,0,LOC-I: Loss of control - inflight,3,6,4,VMC,3,0-2250,7,2
+INCID G-02-19,8/3/2019,2,SCF-NP: System/component failure or malfunction [non-powerplant],1,3,5,VMC,1,27001 to 272000,4,0
+ACCID-01-20,5/3/2020,0,RE: Runway excursion,2,10,5,VMC,3,0-2250,0,0
+INCID-02-19,6/4/2019,1,SCF-NP: System/component failure or malfunction [non-powerplant],3,13,4,VMC,3,0-2250,0,0
+ACCID-03-20,10/25/2020,0,LOC-I: Loss of control - inflight,3,4,4,VMC,3,0-2250,0,0
+ACCID-02-20,9/7/2020,0,SCF-PP: powerplant failure or malfunction,3,5,2,VMC,3,0-2250,2,0
+INCID G-01-20,5/12/2020,2,ARC: Abnormal runway contact,1,2,5,VMC,3,0-2250,7,0
+ACCID-01-21,1/26/2021,0,ARC: Abnormal runway contact,3,11,4,IMC,3,0-2250,0,0
+ACCID-04-21,3/30/2021,0,RE: Runway excursion,3,13,4,VMC,3,0-2250,0,0
+INCID G-02-21,6/21/2021,2,SCF-PP: powerplant failure or malfunction,1,3,5,IMC,0,5701 to 27000 ,2,0
+INCID G-04-21,7/30/2021,2,SCF-PP: powerplant failure or malfunction,1,3,5,VMC,0,5701 to 27000 ,7,0
+ACCID-02-21,2/24/2021,0,FUEL: Fuel related,2,10,4,VMC,3,0-2250,7,0
+ACCID-03-21,3/24/2021,0,SCF-PP: powerplant failure or malfunction,3,11,4,VMC,3,0-2250,9,0
+ACCID-06-21,10/27/2021,0,FUEL: Fuel related,3,4,4,VMC,3,0-2250,0,0
+INCID G-01-21,3/5/2021,2,ARC: Abnormal runway contact,3,16,4,VMC,3,0-2250,7,0
+INCID G-05-21,9/26/2021,2,SCF-PP: powerplant failure or malfunction,1,3,5,IMC,0,5701 to 27000 ,7,0
+INCID G-06-21,9/11/2021,2,SCF-PP: powerplant failure or malfunction,3,7,3,VMC,3,0-2250,7,0
+INCID G-07-21,10/1/2021,2,AMAN: Abrupt maneuvre,1,2,5,VMC,2,2251 to 5700,2,0
+INCID G-03-21,7/20/2021,2,SCF-PP: powerplant failure or malfunction,3,7,2,VMC,3,0-2250,7,0
+INCID-01-21,1/24/2021,1,CTOL: Collision with obstacle(s) during take-off and landing,3,13,4,VMC,3,0-2250,0,0
+INCID-02-21,5/29/2021,1,SCF-PP: powerplant failure or malfunction,3,9,2,VMC,3,0-2250,7,0
+INCID-03-21,7/14/2021,1,UNK: Unknown or undetermined,3,9,2,VMC,3,0-2250,0,0
+ACCID-04-20,12/23/2020,0,SCF-PP: powerplant failure or malfunction,3,13,4,VMC,3,0-2250,0,0
+INCID-01-20,3/9/2020,1,NAV: Navigation error,3,9,2,VMC,3,0-2250,7,0
+INCID G-02-20,12/17/2020,2,UNK: Unknown or undetermined,3,4,4,VMC,2,2251 to 5700,7,0
+INCID G-03-20,12/30/2020,2,ARC: Abnormal runway contact,3,4,4,VMC,3,0-2250,7,0
+INCID-04-21,10/27/2021,1,F-NI: Fire/smoke (non-impact),3,12,4,VMC,3,0-2250,2,0
+INCID-05-21,10/28/2021,1,AMAN: Abrupt maneuvre,3,12,0,VMC,3,0-2250,0,0
+INCID-06-21,11/1/2021,1,SCF-PP: powerplant failure or malfunction,3,12,4,VMC,2,2251 to 5700,7,0
+INCID G-10-21,12/26/2021,2,BIRD: Birdstrike,1,3,5,VMC,0,5701 to 27000 ,7,0
+ACCID-02-22,2/15/2022,0,SCF-PP: powerplant failure or malfunction,3,7,2,VMC,3,0-2250,7,0
+INCID G-08-21,10/7/2021,2,SCF-PP: powerplant failure or malfunction,1,3,3,VMC,0,5701 to 27000 ,8,0
+INCID-07-21,12/14/2021,1,RE: Runway excursion,3,15,2,VMC,3,0-2250,7,0
+INCID 04-22,3/26/2022,1,SCF-PP: powerplant failure or malfunction,3,4,4,VMC,3,0-2250,7,0
+INCID G 01-22,6/11/2022,2,ARC: Abnormal runway contact,3,11,4,VMC,3,0-2250,7,0
+ACCID-01-22,1/9/2022,0,LOC-I: Loss of control - inflight,3,16,4,VMC,2,2251 to 5700,6,0
+ACCID-04-22,5/1/2022,0,UNK: Unknown or undetermined,3,13,4,VMC,3,0-2250,0,0
+INCID-01-22,2/2/2022,1,RE: Runway excursion,3,7,2,VMC,3,0-2250,7,0
+ACCID-06-22,6/17/2022,0,SCF-PP: powerplant failure or malfunction,3,13,4,VMC,3,0-2250,0,0
+ACCID-03-22,3/25/2022,0,SCF-PP: powerplant failure or malfunction,3,7,2,VMC,3,0-2250,0,0
+ACCID-05-22,5/5/2022,0,UNK: Unknown or undetermined,3,11,4,VMC,3,0-2250,5,0
+ACCID-08-22,9/21/2022,0,SCF-PP: powerplant failure or malfunction,3,16,4,VMC,1,27001 to 272000,7,2
+INCID-02-22,12/8/2022,1,OTHR: Other,3,12,3,Unknown,3,0-2250,4,0
+INCID-03-22,2/6/2022,1,SCF-NP: System/component failure or malfunction [non-powerplant],3,13,4,VMC,3,0-2250,1,0
+INCID G-02-22,9/20/2022,2,SCF-PP: powerplant failure or malfunction,3,12,4,Unknown,3,0-2250,7,0
+ACCID-07-22,9/10/2022,0,SCF-PP: powerplant failure or malfunction,3,13,4,VMC,3,0-2250,0,0
+ACCID-01-23,4/26/2023,0,AMAN: Abrupt maneuvre,3,13,4,VMC,3,0-2250,7,5
+INCID G-01-23,1/18/2023,2,SCF-NP: System/component failure or malfunction [non-powerplant],3,4,4,VMC,3,0-2250,7,0
+ACCID-05-21,9/1/2021,0,SCF-NP: System/component failure or malfunction [non-powerplant],3,12,4,VMC,3,0-2250,0,0
+ACCID-02-23,7/9/2023,0,ARC: Abnormal runway contact,3,13,4,VMC,3,0-2250,7,0
+ACCID-03-23,8/24/2023,0,SCF-NP: System/component failure or malfunction [non-powerplant],3,13,4,VMC,3,0-2250,0,0
+INCID-03-23,8/2/2023,1,SCF-PP: powerplant failure or malfunction,1,13,1,VMC,3,0-2250,7,0
+INCID G-04-20,1/14/2020,2,SCF-PP: powerplant failure or malfunction,4,3,5,VMC,0,5701 to 27000 ,3,0
+ACCID-07-21,12/8/2021,0,ATM: ATM/CNS,1,9,2,VMC,3,0-2250,7,0
+ACCID-08-21,12/10/2021,0,FUEL: Fuel related,3,14,4,VMC,3,0-2250,0,0
+ACCID-09-21,12/23/2021,0,SCF-PP: powerplant failure or malfunction,3,13,4,VMC,3,0-2250,0,0
+INCID G-09-21,11/25/2021,2,ARC: Abnormal runway contact,3,3,5,VMC,0,5701 to 27000 ,7,0
+INCID-01-19,3/7/2019,1,ATM: ATM/CNS,1,3,5,VMC,0,5701 to 27000 ,4,0
+ACCID-04-23,9/19/2023,0,SCF-NP: System/component failure or malfunction [non-powerplant],1,8,2,VMC,3,0-2250,7,0
+ACCID-05-23,9/20/2023,0,ARC: Abnormal runway contact,3,12,4,VMC,3,0-2250,0,1
+INCID G-02-23,2/21/2023,2,F-NI: Fire/smoke (non-impact),3,3,5,VMC,1,27001 to 272000,4,0
+INCID-01-23,2/6/2023,1,ARC: Abnormal runway contact,1,13,4,VMC,3,0-2250,0,0
+INCID-02-23,4/21/2023,1,ARC: Abnormal runway contact,3,9,2,VMC,3,0-2250,7,0
+INCID G-03-23,9/15/2023,2,SCF-PP: powerplant failure or malfunction,3,13,4,VMC,3,0-2250,7,0
+INCID-05-22,12/4/2022,1,SCF-PP: powerplant failure or malfunction,3,0,0,VMC,0,5701 to 27000 ,0,0
+INCID G-04-23,12/17/2023,2,ADRM: Aerodrome,0,12,4,,3,0-2250,7,0

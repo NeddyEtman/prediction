@@ -1,0 +1,74 @@
+﻿ECCAIRSNUMBER,Local date,Occurrence class,Aircraft registration,Occurrence category,Operation type,Operation type,Operator type,Weather conditions,Mass group,Location name,Total fatalities
+INCID G-01-19,3/6/2019,Serious incident,CP-2744,SCF-NP: System/component failure or malfunction [non-powerplant],Commercial Air Transport,Air Taxi,Sales/rental/service,VMC,0-2 250 Kg,Beni,0
+ACCID-04-19,3/26/2019,Accident,CP-1383,SCF-PP: powerplant failure or malfunction,Illegal,Illegal,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-01-19,1/1/2019,Accident,CP-1214,LOC-G: Loss of control - ground,Non-Commercial Operations,Business,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-02-19,3/5/2019,Accident,CP-1250,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Business,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-03-19,3/24/2019,Accident,CP-1188,SCF-NP: System/component failure or malfunction [non-powerplant],Commercial Air Transport,Air Taxi,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-05-19,4/8/2019,Accident,CP-2258,LOC-I: Loss of control - inflight,Specialised Operations (Aerial Work),Agricultural,Sales/rental/service,VMC,0-2 250 Kg,Santa Cruz,1
+ACCID-07-19,10/24/2019,Accident,CP-3114,FUEL: Fuel related,Non-Commercial Operations,Local,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-06-19,7/13/2019,Accident,CP-X3109,LOC-I: Loss of control - inflight,Non-Commercial Operations,Demonstration,Private owner,VMC,0-2 250 Kg,Santa Cruz,2
+INCID G-02-19,8/3/2019,Serious incident,CP-3077,SCF-NP: System/component failure or malfunction [non-powerplant],Commercial Air Transport,Airline,Sales/rental/service,VMC,27 001 to 272 000 Kg,La Paz,0
+ACCID-01-20,5/3/2020,Accident,CP-2804,RE: Runway excursion,Illegal,Illegal,Sales/rental/service,VMC,0-2 250 Kg,Beni,0
+INCID-02-19,6/4/2019,Incident,CP-3027,SCF-NP: System/component failure or malfunction [non-powerplant],Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-03-20,10/25/2020,Accident,CP-2951,LOC-I: Loss of control - inflight,Non-Commercial Operations,Business,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-02-20,9/7/2020,Accident,CP-2539,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Check,Flying club/school,VMC,0-2 250 Kg,Cochabamba,0
+INCID G-01-20,5/12/2020,Serious incident,CP-2566,ARC: Abnormal runway contact,Commercial Air Transport,Air Taxi,Sales/rental/service,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-01-21,1/26/2021,Accident,CP-3132,ARC: Abnormal runway contact,Non-Commercial Operations,Local,Private owner,IMC,0-2 250 Kg,Beni,0
+ACCID-04-21,3/30/2021,Accident,CP-2387,RE: Runway excursion,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+INCID G-02-21,6/21/2021,Serious incident,CP-2889,SCF-PP: powerplant failure or malfunction,Commercial Air Transport,Airline,Sales/rental/service,IMC,5 701 to 27 000 Kg,Cochabamba,0
+INCID G-04-21,7/30/2021,Serious incident,CP-2889,SCF-PP: powerplant failure or malfunction,Commercial Air Transport,Airline,Sales/rental/service,VMC,5 701 to 27 000 Kg,Santa Cruz,0
+ACCID-02-21,2/24/2021,Accident,CP-2200,FUEL: Fuel related,Illegal,Illegal,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-03-21,3/24/2021,Accident,CP-2948,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Local,Private owner,VMC,0-2 250 Kg,Trinidad,0
+ACCID-06-21,10/27/2021,Accident,CP-2520,FUEL: Fuel related,Non-Commercial Operations,Business,Private owner,VMC,0-2 250 Kg,Beni,0
+INCID G-01-21,3/5/2021,Serious incident,CP-2904,ARC: Abnormal runway contact,Non-Commercial Operations,Unknown,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+INCID G-05-21,9/26/2021,Serious incident,CP-2889,SCF-PP: powerplant failure or malfunction,Commercial Air Transport,Airline,Sales/rental/service,IMC,5 701 to 27 000 Kg,Santa Cruz,0
+INCID G-06-21,9/11/2021,Serious incident,CP-2875,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Dual,Other,VMC,0-2 250 Kg,Santa Cruz,0
+INCID G-07-21,10/1/2021,Serious incident,CP-2562,AMAN: Abrupt maneuvre,Commercial Air Transport,Air Taxi,Sales/rental/service,VMC,2 251 to 5 700 Kg,Cochabamba,0
+INCID G-03-21,7/20/2021,Serious incident,CP-2604,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Dual,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+INCID-01-21,1/24/2021,Incident,CP-2932,CTOL: Collision with obstacle(s) during take-off and landing,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+INCID-02-21,5/29/2021,Incident,CP-2497,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Flight Training/Instructional,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+INCID-03-21,7/14/2021,Incident,CP-2269,UNK: Unknown or undetermined,Non-Commercial Operations,Flight Training/Instructional,Flying club/school,VMC,0-2 250 Kg,Beni,0
+ACCID-04-20,12/23/2020,Accident,CP-3113,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+INCID-01-20,3/9/2020,Incident,CP-2604,NAV: Navigation error,Non-Commercial Operations,Flight Training/Instructional,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+INCID G-02-20,12/17/2020,Serious incident,CP-1625,UNK: Unknown or undetermined,Non-Commercial Operations,Business,Private owner,VMC,2 251 to 5 700 Kg,Santa Cruz,0
+INCID G-03-20,12/30/2020,Serious incident,CP-3107,ARC: Abnormal runway contact,Non-Commercial Operations,Business,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+INCID-04-21,10/27/2021,Incident,CP-1607,F-NI: Fire/smoke (non-impact),Non-Commercial Operations,Non-Commercial Operations,Private owner,VMC,0-2 250 Kg,Cochabamba,0
+INCID-05-21,10/28/2021,Incident,CP-1298,AMAN: Abrupt maneuvre,Non-Commercial Operations,Non-Commercial Operations,,VMC,0-2 250 Kg,Beni,0
+INCID-06-21,11/1/2021,Incident,CP-2807,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Non-Commercial Operations,Private owner,VMC,2 251 to 5 700 Kg,Santa Cruz,0
+INCID G-10-21,12/26/2021,Serious incident,CP-2921,BIRD: Birdstrike,Commercial Air Transport,Airline,Sales/rental/service,VMC,5 701 to 27 000 Kg,Santa Cruz,0
+ACCID-02-22,2/15/2022,Accident,CP-3002,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Dual,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+INCID G-08-21,10/7/2021,Serious incident,CP-2889,SCF-PP: powerplant failure or malfunction,Commercial Air Transport,Airline,Other,VMC,5 701 to 27 000 Kg,Sucre,0
+INCID-07-21,12/14/2021,Incident,CP-2497,RE: Runway excursion,Non-Commercial Operations,Solo,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+INCID 04-22,3/26/2022,Incident,CP-2668,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Business,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+INCID G 01-22,6/11/2022,Serious incident,CP-1493,ARC: Abnormal runway contact,Non-Commercial Operations,Local,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-01-22,1/9/2022,Accident,CP-2807,LOC-I: Loss of control - inflight,Non-Commercial Operations,Unknown,Private owner,VMC,2 251 to 5 700 Kg,Potosí,0
+ACCID-04-22,5/1/2022,Accident,CP-1123,UNK: Unknown or undetermined,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+INCID-01-22,2/2/2022,Incident,CP-2474,RE: Runway excursion,Non-Commercial Operations,Dual,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-06-22,6/17/2022,Accident,CP-2959,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-03-22,3/25/2022,Accident,CP-911,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Dual,Flying club/school,VMC,0-2 250 Kg,Beni,0
+ACCID-05-22,5/5/2022,Accident,CP-2594,UNK: Unknown or undetermined,Non-Commercial Operations,Local,Private owner,VMC,0-2 250 Kg,Pista sin establecer,0
+ACCID-08-22,9/21/2022,Accident,CP-2420,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Unknown,Private owner,VMC,27 001 to 272 000 Kg,Santa Cruz,2
+INCID-02-22,12/8/2022,Incident,CP-X3112,OTHR: Other,Non-Commercial Operations,Non-Commercial Operations,Other,Unknown,0-2 250 Kg,La Paz,0
+INCID-03-22,2/6/2022,Incident,CP-3139,SCF-NP: System/component failure or malfunction [non-powerplant],Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Carretera transoceanica,0
+INCID G-02-22,9/20/2022,Serious incident,CP-X3156,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Non-Commercial Operations,Private owner,Unknown,0-2 250 Kg,Santa Cruz,0
+ACCID-07-22,9/10/2022,Accident,CP-2504,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-01-23,4/26/2023,Accident,CP-2625,AMAN: Abrupt maneuvre,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Santa Cruz,5
+INCID G-01-23,1/18/2023,Serious incident,CP-2650,SCF-NP: System/component failure or malfunction [non-powerplant],Non-Commercial Operations,Business,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-05-21,9/1/2021,Accident,CP-3104,SCF-NP: System/component failure or malfunction [non-powerplant],Non-Commercial Operations,Non-Commercial Operations,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-02-23,7/9/2023,Accident,CP-3089,ARC: Abnormal runway contact,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-03-23,8/24/2023,Accident,CP-1859,SCF-NP: System/component failure or malfunction [non-powerplant],Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+INCID-03-23,8/2/2023,Incident,CP-3203,SCF-PP: powerplant failure or malfunction,Commercial Air Transport,Other,Corporate/executive,VMC,0-2 250 Kg,Santa Cruz,0
+INCID G-04-20,1/14/2020,Serious incident,ECO-983,SCF-PP: powerplant failure or malfunction,Specialised Operations (Aerial Work),Airline,Sales/rental/service,VMC,5 701 to 27 000 Kg,DOLGI,0
+ACCID-07-21,12/8/2021,Accident,CP-2667,ATM: ATM/CNS,Commercial Air Transport,Flight Training/Instructional,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-08-21,12/10/2021,Accident,CP-3060,FUEL: Fuel related,Non-Commercial Operations,Pleasure,Private owner,VMC,0-2 250 Kg,Beni,0
+ACCID-09-21,12/23/2021,Accident,CP-1425,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+INCID G-09-21,11/25/2021,Serious incident,CP-2889,ARC: Abnormal runway contact,Non-Commercial Operations,Airline,Sales/rental/service,VMC,5 701 to 27 000 Kg,Santa Cruz,0
+INCID-01-19,3/7/2019,Incident,CP-3020,ATM: ATM/CNS,Commercial Air Transport,Airline,Sales/rental/service,VMC,5 701 to 27 000 Kg,La Paz,0
+ACCID-04-23,9/19/2023,Accident,CP-2764,SCF-NP: System/component failure or malfunction [non-powerplant],Commercial Air Transport,First Solo,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+ACCID-05-23,9/20/2023,Accident,CP-2180,ARC: Abnormal runway contact,Non-Commercial Operations,Non-Commercial Operations,Private owner,VMC,0-2 250 Kg,Beni,1
+INCID G-02-23,2/21/2023,Serious incident,CP-2889,F-NI: Fire/smoke (non-impact),Non-Commercial Operations,Airline,Sales/rental/service,VMC,27 001 to 272 000 Kg,La Paz,0
+INCID-01-23,2/6/2023,Incident,CP-2122,ARC: Abnormal runway contact,Commercial Air Transport,Other,Private owner,VMC,0-2 250 Kg,Beni,0
+INCID-02-23,4/21/2023,Incident,CP-918,ARC: Abnormal runway contact,Non-Commercial Operations,Flight Training/Instructional,Flying club/school,VMC,0-2 250 Kg,Santa Cruz,0
+INCID G-03-23,9/15/2023,Serious incident,CP-2916,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,Other,Private owner,VMC,0-2 250 Kg,Santa Cruz,0
+INCID-05-22,12/4/2022,Incident,CP-2852,SCF-PP: powerplant failure or malfunction,Non-Commercial Operations,,,VMC,5 701 to 27 000 Kg,Beni,0
+INCID G-04-23,12/17/2023,Serious incident,CP-2003,ADRM: Aerodrome,,Non-Commercial Operations,Private owner,,0-2 250 Kg,Santa Cruz,0
